@@ -8,7 +8,7 @@
 
 <?php
  
- $imie = "Łukasz";
+ $imie = "Łukasz!";
  
  echo "Hello World!<br /><br />";
  
