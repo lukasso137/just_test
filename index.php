@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-kdlksdjlvkjsd
-=======
-kjchdakcjhakcjhakcjhkjacs
->>>>>>> login
