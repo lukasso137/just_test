@@ -1,3 +1,3 @@
-This for testin purposes, so please ignore the whole repository - soon, I'll upload my projects.
+This for testing purposes, so please ignore the whole repository - soon, I'll upload my projects.
 
 Thanks!
