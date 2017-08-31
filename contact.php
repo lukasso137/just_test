@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sss
-=======
-acjachkjahckash
->>>>>>> login
